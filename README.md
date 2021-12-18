@@ -23,6 +23,6 @@
 9. 最後我們要重啟我們的 terminal
     - `bash`
 10. 從 docker 的 compose 專案拉檔案下來
-    - `sudo curl -L "https://github.com/docker/compose/releases/download/1.25.4/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose`
+    - `sudo curl -L "https://github.com/docker/compose/releases/download/1.29.2/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose`
 11. 增加執行權限
     - `sudo chmod +x /usr/local/bin/docker-compose`
