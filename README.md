@@ -1,6 +1,8 @@
 # Security-Cheatsheet
 
-
+## bypass_disablefunc
+for disable_function
+symlink,show_source, system, exec, shell_exec, passthru, popen, proc_open, proc_close, proc_get_status, proc_nice, proc_terminate, escapeshellarg, escapeshellcmd, ini_alter, define_syslog_variables,posix_uname,posix_getpwuid,posix_getpwnam, apache_child_terminate,posix_kill,posix_mkfifo,posix_setpgid,posix_setsid,posix_setuid,proc_terminate, posix_uname, diskfreespace, leak,base64_encodem,eval, apache_child_terminate, apache_setenv
 
 ## install docker & docker-compose
 1. 更新 Ubuntu 套件庫
